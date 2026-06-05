@@ -2,16 +2,21 @@
 public class Program {
 
     public static void main(String[] args) {
-        // Testaa sanakirjaa täällä
-//        DictionaryOfManyTranslations dictionary = new DictionaryOfManyTranslations();
-//        dictionary.add("lie", "maata");
-//        dictionary.add("lie", "valehdella");
-//
-//        dictionary.add("bow", "jousi");
-//        dictionary.add("bow", "kumartaa");
-//
-//        System.out.println(dictionary.translate("lie"));
-//        dictionary.remove("bow");
-//        System.out.println(dictionary.translate("bow"));
+        
+        DictionaryOfManyTranslations dict = new DictionaryOfManyTranslations();
+        
+        dict.add("pen", "pencil");
+        dict.add("pen", "pluma");
+        dict.add("pen", "penna");
+        dict.add("neck", "collar");
+        dict.add("neck", "pluma");
+       
+        System.out.println(dict.translate("pen"));
+        System.out.println(dict.translate("neck"));
+        
+        dict.remove("pen");
+        
+        System.out.println(dict.translate("pen"));
+        
     }
 }
