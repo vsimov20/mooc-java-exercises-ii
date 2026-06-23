@@ -1,0 +1,26 @@
+2026-05-24,Reading,fully
+2026-05-24,Workout,fully
+2026-05-24,Coding,almost fully
+2026-05-24,Journaling,fully
+2026-05-25,Reading,fully
+2026-05-25,Workout,fully
+2026-05-25,Coding,almost fully
+2026-05-25,Journaling,partilly
+2026-06-17,Reading,fully
+2026-06-17,Workout,partially
+2026-06-17,Coding,fully
+2026-06-17,Journaling,fully
+2026-06-17,Smoking,10
+2026-06-17,Nasal Spray,4
+2026-06-18,Reading,not
+2026-06-18,Workout,not
+2026-06-18,Coding,not
+2026-06-18,Journaling,not
+2026-06-18,Smoking,8
+2026-06-18,Nasal Spray,6
+2026-06-21,Reading,fully
+2026-06-21,Workout,fully
+2026-06-21,Coding,almost fully
+2026-06-21,Journaling,not
+2026-06-21,Smoking,9
+2026-06-21,Nasal Spray,6
